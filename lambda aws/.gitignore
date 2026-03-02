@@ -1,0 +1,37 @@
+# Dependencies
+/node_modules
+
+# Build artifacts
+/dist
+/build
+
+# Environment files
+.env
+.env.*
+
+# AWS credentials and config
+.aws/
+aws.config.json
+
+# Temporary files
+/tmp
+*.tmp
+
+# Docker files
+.docker/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lambda deployment packages
+*.zip
+
+# Logs
+*.log 

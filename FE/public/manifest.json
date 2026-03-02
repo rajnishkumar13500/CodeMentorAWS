@@ -1,0 +1,23 @@
+{
+  "short_name": "CodeMentor",
+  "name": "CodeMentor - AI for Bharat Hackathon",
+  "description": "AI-powered code compiler for Indian developers. Built for AI for Bharat Hackathon, powered by AWS.",
+  "icons": [
+    {
+      "src": "codementor-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "codementor-logo-alt.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f97316",
+  "background_color": "#ffffff",
+  "categories": ["education", "developer", "productivity"],
+  "lang": "en-IN"
+}
