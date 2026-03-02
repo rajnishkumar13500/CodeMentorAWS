@@ -1,5 +1,7 @@
 # CodeMentor 🚀
 
+ACCESS THE LIVE URL :  http://13.233.159.12/
+
 > **An AI-Powered Code Compilation and Learning Platform**
 
 CodeMentor is a comprehensive web-based platform that combines code compilation, AI-powered assistance, and visual learning tools to create an enhanced programming experience. Built with modern technologies and powered by AWS services, it provides real-time code execution, intelligent hints, and interactive diagrams.
