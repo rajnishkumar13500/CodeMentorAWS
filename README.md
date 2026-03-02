@@ -784,10 +784,6 @@ npm run lint
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **AWS Bedrock** for AI model hosting and Mistral model access
