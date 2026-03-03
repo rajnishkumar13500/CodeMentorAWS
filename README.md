@@ -10,7 +10,7 @@ CodeMentor is a comprehensive web-based platform that combines code compilation,
 
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
-- [Technology Stack](#-technology-stack)power
+- [Technology Stack](#-technology-stack)
 - [Architecture](#-architecture)
 - [System Flow](#-system-flow)
 - [Database Design](#-database-design)
