@@ -797,4 +797,3 @@ npm run lint
 
 **Built with ❤️ by the CodeMentor Team**
 
-For questions, issues, or contributions, please visit our [GitHub repository](https://github.com/your-username/CodeMentor) or contact us at [support@codementor.com](mailto:support@codementor.com).
