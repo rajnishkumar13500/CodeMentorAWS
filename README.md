@@ -290,24 +290,24 @@ sequenceDiagram
 ### DynamoDB Single Table Design
 
 ```mermaid
-erDiagram
-    CodeMentor {
-        string PK "Partition Key"
-        string SK "Sort Key"
-        string Type "Entity Type"
-        string email "User Email"
-        string password "Hashed Password"
-        string displayName "User Display Name"
-        boolean isVerified "Email Verification Status"
-        string name "Project Name"
-        string language "Programming Language"
-        string code "Source Code"
-        string input "Test Input"
-        string diagram "Mermaid Diagram"
-        string question "Problem Statement"
-        string otp "Hashed OTP"
-        number ttl "Time To Live"
-        string createdAt "Creation Timestamp"
+classDiagram
+    class CodeMentor {
+        +String PK (Partition Key)
+        +String SK (Sort Key)
+        +String Type
+        +String email
+        +String password
+        +String displayName
+        +Boolean isVerified
+        +String name
+        +String language
+        +String code
+        +String input
+        +String diagram
+        +String question
+        +String otp
+        +Number ttl
+        +String createdAt
     }
 ```
 
